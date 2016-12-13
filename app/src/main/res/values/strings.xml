@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InAppDemo</string>
+    <string name="lisence_key_inapp">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAswz4R7BNfWs3MP9DIFiIUcVNB13P690Yd5O2Z9FfbNWAR1KTcGhaKyn1rYRESYndcPP9S+7JCK1vawOU2Ar6WBFONKkOfocnMShc16ubFZBkbT8yOQyG809BwEgsdVLqFTfD7WaKgRIn53+Q09NFAoG5qMuEfnbQbAc0sLyxqEESuYMl1/AsidDs008PPvwP4yFttM7vRo2EkTf67uMKCC3MfoNmcbNXMSn5ofxe718zCVeGfof839fBL3M4zx4JaH9HPu4cvy0TZeTVVZ0XVM+0pIWNRlMGV4V+xzpIHlp650T199CIPzRrXClfcj2O6GC9b4+Ctx07CFo517xg5QIDAQAB</string>
+    <string name="remove_ads">remove_ads</string>
+</resources>
